@@ -11,4 +11,4 @@ B.Tech student in Data Science and Machine Learning at Lovely Professional Unive
 Python, NumPy, Pandas, Git and GitHub
 
 ## Contact
-LinkedIn: add your LinkedIn link here
+LinkedIn: https://www.linkedin.com/in/sujal-sahu-53b139428/
